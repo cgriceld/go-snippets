@@ -1,0 +1,1 @@
+Simple chat REST-server with in-memory storage.

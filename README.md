@@ -1,2 +1,3 @@
 # go-snippets
-📌 hw's from Tinkoff Fintech
+
+Some small Go programs, each has brief dicription in README.
